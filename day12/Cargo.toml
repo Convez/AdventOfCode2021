@@ -1,0 +1,12 @@
+[package]
+name = "day12"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "day12"
+path = "src/main.rs"
+
+[dependencies]
+itertools="0.10"
+sscanf="0.4"
