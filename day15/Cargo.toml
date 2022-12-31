@@ -1,0 +1,13 @@
+[package]
+name = "day15"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "day15"
+path = "src/main.rs"
+
+[dependencies]
+itertools="0.10"
+sscanf="0.4"
+petgraph="0.6"
